@@ -182,6 +182,17 @@
       <DependentUpon>BuildCompany.edmx</DependentUpon>
       <LastGenOutput>BuildCompany.cs</LastGenOutput>
     </Content>
+    <Resource Include="Скриншоты\materials.png" />
+    <Resource Include="Скриншоты\material_types.png" />
+    <Resource Include="Скриншоты\measurments.png" />
+    <Resource Include="Скриншоты\product_material.png" />
+    <Resource Include="Скриншоты\Диаграмма_БД.png" />
+    <Resource Include="Скриншоты\Таблица_products.png" />
+    <Resource Include="Скриншоты\Таблица_Product_types.png" />
+    <Resource Include="Скриншоты\Главный_экран.png" />
+    <Resource Include="Скриншоты\Добавление_заявки_партнера.png" />
+    <Resource Include="Скриншоты\Окно_редактирования_партнера.png" />
+    <Resource Include="Скриншоты\Показ_Заявок_Партнера.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
